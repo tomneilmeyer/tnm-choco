@@ -1,4 +1,4 @@
 tnm-choco
 =========
 
-Repository for software packages for Chocolatey package manager.
+Repository for hosting software packages used by Chocolatey package manager.
